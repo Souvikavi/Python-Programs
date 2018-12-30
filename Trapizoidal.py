@@ -1,5 +1,5 @@
 # BY USING LAMBDA 
-INPUT AS "trapizoidal (lambda x : function)"
+#INPUT AS "trapizoidal (lambda x : function)"
 
 def trapizoidal(func):    
     a = float(input("Enter Lower Limit : "))
